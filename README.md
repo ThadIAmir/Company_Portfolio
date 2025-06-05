@@ -49,5 +49,5 @@ The site is fully bilingual in Persian (Farsi) and designed with a responsive la
   - PythonAnywhere (Live demo)  
 
 
-
+<br><hr><br>
 Feel free to reach out for questions, suggestions, or collaboration opportunities.
