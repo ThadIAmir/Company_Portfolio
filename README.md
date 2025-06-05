@@ -26,10 +26,10 @@ The site is fully bilingual in Persian (Farsi) and designed with a responsive la
 
 ## Features
 
-- ✅ **SPA Structure**: Separate pages for “About Us,” “Services,” “Registration Info,” “Management,” “Auditors,” and “Contact.”  
-- ✅ **Responsive Design**: Ensures usability across various screen sizes (desktop, tablet, mobile).  
-- ✅ **Contact Form**: Users can send messages directly; configured to send emails via Django’s email backend.  
-- ✅ **Admin Dashboard**: Built-in Django admin for managing content (services, executives, auditors).  
+- 🧩  **SPA Structure**: Dynamic sections rendered on a single page without reloading  
+- 📱  **Responsive Design**: Ensures usability across various screen sizes (desktop, tablet, mobile).  
+- 📬  **Contact Form**: Users can send messages directly; configured to send emails via Django’s email backend.  
+- 🛠️  **Admin Dashboard**: Built-in Django admin for managing content (services, executives, auditors).  
 
 ---
 
